@@ -2,6 +2,7 @@
 SE 311 Livestock Farm Project
 
 TR
+
 Dört klasik nesne yönelimli tasarım kalıbının birlikte kullanımını gösteren Java tabanlı bir sığır çiftliği yönetim simülasyonu.
 Kullanılan Kalıplar:
 
@@ -12,6 +13,7 @@ Singleton — Tüm sığırların GPS verilerini tutan tek bir LocationDatabase 
 Adapter — Bluetooth cihazını, sunucunun beklediği Zigbee arayüzüyle uyumlu hale getirir.
 
 EN
+
 A Java-based cattle farm management simulation that demonstrates four classic object-oriented design patterns working together.
 Patterns Used:
 
